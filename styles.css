@@ -35,7 +35,7 @@ nav a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--leaf);}
 
 .hero{background:#fff;border-bottom:1px solid var(--line);padding:0;}
 .hero-inner{position:relative;min-height:430px;display:flex;align-items:flex-end;
-  background:#12301f url('img/hero-bos.jpg') center 30% / cover no-repeat;}
+  background:#12301f url('img/hero-bos.jpeg') center 30% / cover no-repeat;}
 .hero-inner:before{content:"";position:absolute;inset:0;
   background:linear-gradient(180deg,rgba(12,32,21,.30) 0%,rgba(11,30,20,.72) 62%,rgba(9,26,17,.88) 100%);}
 .hero-text{position:relative;max-width:var(--max);margin:0 auto;width:100%;
